@@ -1,5 +1,5 @@
 function Cube(n) {
-    var side = 0;
+    var side;
 
 
     this.getSide = function() { return side; };
